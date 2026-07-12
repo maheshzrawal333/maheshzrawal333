@@ -1,16 +1,180 @@
-## Hi there 👋
-
-<!--
-**maheshzrawal333/maheshzrawal333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- 
+  =======================================================================
+  HERO SECTION (Animated Banner + Typing Text)
+  =======================================================================
 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86FF,100:6DB33F&height=250&section=header&text=Mahesh%20Rawal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Android%20%7C%20Backend%20%7C%20AI&descAlignY=55&descSize=20" alt="Header Banner" width="100%" />
+
+  <a href="https://github.com/maheshzrawal333">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=2E86FF&center=true&vCenter=true&width=800&lines=Architecting+scalable+systems+with+Java+%26+Spring+Boot;Building+high-performance+Android+apps+with+Compose;Designing+production-ready+RAG+pipelines+%26+LLMs;Focusing+on+Clean+Architecture,+MVVM,+%26+System+Design" alt="Typing SVG" />
+  </a>
+  
+  <br/>
+  
+  <!-- Social Links as Minimalist Badges -->
+  <a href="https://www.linkedin.com/in/maheshzrawal333/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:maheshzrawal333@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/maheshzrawal333"><img src="https://img.shields.io/badge/Lalitpur%2C%20Nepal-34A853?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /></a>
+</div>
+
+<br/>
+
+<!-- 
+  =======================================================================
+  ABOUT ME SECTION (2-Column Grid Layout)
+  =======================================================================
+-->
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h2>👋 Executive Summary</h2>
+      <p>I am a Software Engineer specializing in building robust backend systems and high-performance native Android applications. With a strong foundation in <strong>Computer Science & Engineering</strong>, my expertise lies in bridging the gap between scalable infrastructure and seamless user experiences.</p>
+      <ul>
+        <li>🎓 <strong>Education:</strong> B.Tech in CSE (April 2026) — CGPA: 8.48/10</li>
+        <li>💼 <strong>Current Focus:</strong> Open to Software Engineering roles (Android / Backend / AI Integration).</li>
+        <li>📍 <strong>Location:</strong> Lalitpur, Nepal</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="top">
+      <!-- Animated Developer GIF -->
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png" alt="Developer" width="150" />
+      <br/>
+      <img src="https://komarev.com/ghpvc/?username=maheshzrawal333&color=2E86FF&style=flat-square&label=Profile+Visits" alt="Profile Views" />
+    </td>
+  </tr>
+</table>
+
+> *"Beginning something is not a big deal, maintaining it is."*
+
+<br/>
+
+<!-- 
+  =======================================================================
+  TECH STACK (Animated Skillicons + Specific Text Badges)
+  =======================================================================
+-->
+<h2 align="center">⚙️ Technical Arsenal</h2>
+
+<div align="center">
+
+  <h3>📱 Mobile / Android</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,android,sqlite" alt="Mobile Icons" />
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Room%20DB-4285F4?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room DB" />
+  <img src="https://img.shields.io/badge/XML-0060AC?style=for-the-badge" alt="XML" />
+  <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge" alt="Retrofit" />
+  <img src="https://img.shields.io/badge/Coil%20%2F%20Glide-000000?style=for-the-badge" alt="Coil/Glide" />
+
+  <br/><br/>
+
+  <h3>⚙️ Backend & APIs</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate" alt="Backend Icons" />
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/RESTful%20APIs-005571?style=for-the-badge" alt="RESTful APIs" />
+
+  <br/><br/>
+
+  <h3>🗄️ Database</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="Database Icons" />
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" />
+  <img src="https://img.shields.io/badge/JDBC-4169E1?style=for-the-badge" alt="JDBC" />
+
+  <br/><br/>
+
+  <h3>🤖 AI & ML</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow" alt="AI Icons" />
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring AI" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+
+  <br/><br/>
+
+  <h3>🛠️ Tools & Platforms</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,androidstudio,idea,firebase,postman,gradle,maven&perline=8" alt="Tools Icons" />
+  </a>
+
+</div>
+
+<br/>
+
+<!-- 
+  =======================================================================
+  FEATURED PROJECTS (Website Card Layout)
+  =======================================================================
+-->
+<h2>🚀 Featured Engineering Projects</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔍 <a href="https://github.com/maheshzrawal333/ForensiX">ForensiX</a></h3>
+      <p align="center"><em>AI-Powered Digital Evidence Search Engine</em></p>
+      <hr/>
+      <ul>
+        <li><strong>Architecture:</strong> Engineered a full-stack RAG pipeline with asynchronous ingestion processing PDF, DOCX, CSV, and TXT files.</li>
+        <li><strong>AI Integration:</strong> Implemented local LLM integration (<b>Llama 3.2</b> via Ollama/Spring AI) with strict JSON structuring to eliminate hallucinations.</li>
+        <li><strong>Database:</strong> Built custom PL/pgSQL hybrid-search functions combining GIN indexing and <b>pgvector</b>.</li>
+      </ul>
+      <p align="center"><code>Spring Boot</code> <code>PostgreSQL</code> <code>Spring AI</code> <code>pgvector</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💳 <a href="https://github.com/maheshzrawal333/NepSmartPay">NepSmartPay</a></h3>
+      <p align="center"><em>Secure Smart QR & Network Provisioning</em></p>
+      <hr/>
+      <ul>
+        <li><strong>Design Patterns:</strong> Utilized the <b>Chain-of-Responsibility</b> pattern for multi-format QR parsing and a <b>Strategy-based</b> router for wallet detection.</li>
+        <li><strong>Concurrency:</strong> Managed background operations using Coroutines and Foreground Services with auto-teardown.</li>
+        <li><strong>Security:</strong> Integrated native <b>C++ via JNI</b> to secure AES-256-GCM symmetric keys against reverse engineering.</li>
+      </ul>
+      <p align="center"><code>Kotlin</code> <code>Jetpack Compose</code> <code>C++</code> <code>Coroutines</code></p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- 
+  =======================================================================
+  GITHUB ANALYTICS & STATS (Aligned Grid)
+  =======================================================================
+-->
+<h2 align="center">📊 GitHub Analytics</h2>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=maheshzrawal333&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=2E86FF&icon_color=6DB33F" width="100%" alt="Mahesh's GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshzrawal333&layout=compact&theme=tokyonight&hide_border=true&title_color=2E86FF" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshzrawal333&theme=tokyonight&hide_border=true&ring=2E86FF&fire=2E86FF" width="100%" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- 
+  =======================================================================
+  FOOTER SECTION
+  =======================================================================
+-->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:2E86FF&height=100&section=footer" alt="Footer Banner" width="100%" />
+</div>
