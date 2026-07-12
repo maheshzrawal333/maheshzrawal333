@@ -21,7 +21,7 @@
 <table width="100%">
   <tr>
     <td width="65%" valign="top">
-      <p><strong><font size="5">👋 Executive Summary</font></strong></p>
+      <p><strong><font size="5">👋 Summary</font></strong></p>
       <p>I am a Software Engineer specializing in building robust backend systems and high-performance native Android applications. With a strong foundation in <strong>Computer Science & Engineering</strong>, my expertise lies in bridging the gap between scalable infrastructure and seamless user experiences.</p>
       <ul>
         <li>🎓 <strong>Education:</strong> B.Tech in CSE (April 2026) — CGPA: 8.48/10</li>
