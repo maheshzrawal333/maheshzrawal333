@@ -4,18 +4,11 @@
   =======================================================================
 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86FF,100:6DB33F&height=250&section=header&text=Mahesh%20Rawal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Android%20%7C%20Backend%20%7C%20AI&descAlignY=55&descSize=20" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86FF,100:6DB33F&height=250&section=header&text=Mahesh%20Rawal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Android%20%7C%20Backend%20%7C%20AI&descAlignY=55&descSize=20" alt="Header Banner" width="100%" />
 
   <a href="https://github.com/maheshzrawal333">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=2E86FF&center=true&vCenter=true&width=800&lines=Architecting+scalable+systems+with+Java+%26+Spring+Boot;Building+high-performance+Android+apps+with+Compose;Designing+production-ready+RAG+pipelines+%26+LLMs;Focusing+on+Clean+Architecture,+MVVM,+%26+System+Design" alt="Typing SVG" />
   </a>
-  
-  <br/>
-  
-  <!-- Social Links as Minimalist Badges -->
-  <a href="https://www.linkedin.com/in/maheshzrawal333/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:maheshzrawal333@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/maheshzrawal333"><img src="https://img.shields.io/badge/Lalitpur%2C%20Nepal-34A853?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /></a>
 </div>
 
 <br/>
@@ -28,7 +21,7 @@
 <table width="100%">
   <tr>
     <td width="65%" valign="top">
-      <h2>👋 Executive Summary</h2>
+      <p><strong><font size="5">👋 Executive Summary</font></strong></p>
       <p>I am a Software Engineer specializing in building robust backend systems and high-performance native Android applications. With a strong foundation in <strong>Computer Science & Engineering</strong>, my expertise lies in bridging the gap between scalable infrastructure and seamless user experiences.</p>
       <ul>
         <li>🎓 <strong>Education:</strong> B.Tech in CSE (April 2026) — CGPA: 8.48/10</li>
@@ -37,10 +30,34 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="top">
-      <!-- Animated Developer GIF -->
+      <!-- Animated Developer GIF & Contact Card -->
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png" alt="Developer" width="150" />
-      <br/>
-      <img src="https://komarev.com/ghpvc/?username=maheshzrawal333&color=2E86FF&style=flat-square&label=Profile+Visits" alt="Profile Views" />
+      <br/><br/>
+      <!-- Clickable Skill Icons -->
+      <a href="https://www.linkedin.com/in/maheshzrawal333/">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+      </a>
+      &nbsp;
+      <a href="mailto:maheshzrawal333@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+      </a>
+      &nbsp;
+      <a href="https://www.instagram.com/maheshzrawal333">
+        <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+      </a>
+      &nbsp;
+      <a href="https://discord.com/users/maheshzrawal333">
+        <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+      </a>
+      &nbsp;
+      <a href="https://stackoverflow.com/users/31674683/maheshzrawal333">
+        <img src="https://skillicons.dev/icons?i=stackoverflow" alt="StackOverflow" />
+      </a>
+      <br/><br/>
+      <!-- Location Badge -->
+      <a href="https://github.com/maheshzrawal333">
+        <img src="https://img.shields.io/badge/Lalitpur%2C%20Nepal-34A853?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+      </a>
     </td>
   </tr>
 </table>
@@ -51,61 +68,64 @@
 
 <!-- 
   =======================================================================
-  TECH STACK (Animated Skillicons + Specific Text Badges)
+  TECH STACK (4 Equal Square Boxes inside a Centered Large Grid)
   =======================================================================
 -->
 <h2 align="center">⚙️ Technical Arsenal</h2>
 
 <div align="center">
-
-  <h3>📱 Mobile / Android</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,android,sqlite" alt="Mobile Icons" />
-  </a>
-  <br/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
-  <img src="https://img.shields.io/badge/Room%20DB-4285F4?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room DB" />
-  <img src="https://img.shields.io/badge/XML-0060AC?style=for-the-badge" alt="XML" />
-  <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge" alt="Retrofit" />
-  <img src="https://img.shields.io/badge/Coil%20%2F%20Glide-000000?style=for-the-badge" alt="Coil/Glide" />
-
-  <br/><br/>
-
-  <h3>⚙️ Backend & APIs</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate" alt="Backend Icons" />
-  </a>
-  <br/>
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Security" />
-  <img src="https://img.shields.io/badge/RESTful%20APIs-005571?style=for-the-badge" alt="RESTful APIs" />
-
-  <br/><br/>
-
-  <h3>🗄️ Database</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="Database Icons" />
-  </a>
-  <br/>
-  <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" />
-  <img src="https://img.shields.io/badge/JDBC-4169E1?style=for-the-badge" alt="JDBC" />
-
-  <br/><br/>
-
-  <h3>🤖 AI & ML</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow" alt="AI Icons" />
-  </a>
-  <br/>
-  <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring AI" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-
-  <br/><br/>
-
-  <h3>🛠️ Tools & Platforms</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,androidstudio,idea,firebase,postman,gradle,maven&perline=8" alt="Tools Icons" />
-  </a>
-
+  <table width="100%" align="center">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <p><strong><font size="4">📱 Mobile / Android</font></strong></p>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,sqlite" alt="Mobile Icons" />
+        </a>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+        <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Room%20DB-4285F4?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room DB" />
+        <img src="https://img.shields.io/badge/XML-0060AC?style=for-the-badge" alt="XML" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge" alt="Retrofit" />
+        <img src="https://img.shields.io/badge/Coil%20%2F%20Glide-000000?style=for-the-badge" alt="Coil/Glide" />
+        <br/><br/>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <p><strong><font size="4">⚙️ Backend & APIs</font></strong></p>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=java,spring,hibernate" alt="Backend Icons" />
+        </a>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Security" />
+        <img src="https://img.shields.io/badge/RESTful%20APIs-005571?style=for-the-badge" alt="RESTful APIs" />
+        <br/><br/>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <p><strong><font size="4">🗄️ Data & 🤖 AI</font></strong></p>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=postgres,tensorflow" alt="DB & AI Icons" />
+        </a>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" />
+        <img src="https://img.shields.io/badge/JDBC-4169E1?style=for-the-badge" alt="JDBC" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring AI" />
+        <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+        <br/><br/>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <p><strong><font size="4">🛠️ Tools & Platforms</font></strong></p>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git,github,idea,firebase,postman,gradle,maven&perline=4" alt="Tools Icons" />
+        </a>
+        <br/><br/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -120,7 +140,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🔍 <a href="https://github.com/maheshzrawal333/ForensiX">ForensiX</a></h3>
+      <p align="center"><strong><font size="4">🔍 <a href="https://github.com/maheshzrawal333/ForensiX">ForensiX</a></font></strong></p>
       <p align="center"><em>AI-Powered Digital Evidence Search Engine</em></p>
       <hr/>
       <ul>
@@ -131,7 +151,7 @@
       <p align="center"><code>Spring Boot</code> <code>PostgreSQL</code> <code>Spring AI</code> <code>pgvector</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">💳 <a href="https://github.com/maheshzrawal333/NepSmartPay">NepSmartPay</a></h3>
+      <p align="center"><strong><font size="4">💳 <a href="https://github.com/maheshzrawal333/NepSmartPay">NepSmartPay</a></font></strong></p>
       <p align="center"><em>Secure Smart QR & Network Provisioning</em></p>
       <hr/>
       <ul>
@@ -148,25 +168,17 @@
 
 <!-- 
   =======================================================================
-  GITHUB ANALYTICS & STATS (Aligned Grid)
+  GITHUB ANALYTICS & STATS (Centered Layout)
   =======================================================================
 -->
 <h2 align="center">📊 GitHub Analytics</h2>
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=maheshzrawal333&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=2E86FF&icon_color=6DB33F" width="100%" alt="Mahesh's GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshzrawal333&layout=compact&theme=tokyonight&hide_border=true&title_color=2E86FF" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshzrawal333&theme=tokyonight&hide_border=true&ring=2E86FF&fire=2E86FF" width="100%" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maheshzrawal333&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=2E86FF&icon_color=6DB33F" alt="Mahesh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshzrawal333&layout=compact&theme=tokyonight&hide_border=true&title_color=2E86FF" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshzrawal333&theme=tokyonight&hide_border=true&ring=2E86FF&fire=2E86FF" alt="GitHub Streak" />
+</div>
 
 <br/>
 
