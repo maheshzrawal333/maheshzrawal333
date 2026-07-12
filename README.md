@@ -21,7 +21,7 @@
 <table width="100%">
   <tr>
     <td width="65%" valign="top">
-      <p><strong><font size="5">👋 Summary</font></strong></p>
+      <p><strong><font size="9">👋 Summary</font></strong></p>
       <p>I am a Software Engineer specializing in building robust backend systems and high-performance native Android applications. With a strong foundation in <strong>Computer Science & Engineering</strong>, my expertise lies in bridging the gap between scalable infrastructure and seamless user experiences.</p>
       <ul>
         <li>🎓 <strong>Education:</strong> B.Tech in CSE (April 2026) — CGPA: 8.48/10</li>
@@ -31,28 +31,14 @@
     </td>
     <td width="35%" align="center" valign="top">
       <!-- Animated Developer GIF & Contact Card -->
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png" alt="Developer" width="150" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png" alt="Developer" width="130" />
       <br/><br/>
-      <!-- Clickable Skill Icons -->
-      <a href="https://www.linkedin.com/in/maheshzrawal333/">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-      </a>
-      &nbsp;
-      <a href="mailto:maheshzrawal333@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-      </a>
-      &nbsp;
-      <a href="https://www.instagram.com/maheshzrawal333">
-        <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-      </a>
-      &nbsp;
-      <a href="https://discord.com/users/maheshzrawal333">
-        <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
-      </a>
-      &nbsp;
-      <a href="https://discordapp.com/users/1042392761627840594">
-        <img src="https://skillicons.dev/icons?i=stackoverflow" alt="StackOverflow" />
-      </a>
+      <!-- Clickable Skill Icons (Resized to fit exactly on one line) -->
+      <a href="https://www.linkedin.com/in/maheshzrawal333/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" /></a>
+      <a href="mailto:maheshzrawal333@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" /></a>
+      <a href="https://www.instagram.com/maheshzrawal333"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" /></a>
+      <a href="https://discordapp.com/users/1042392761627840594"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="40" /></a>
+      <a href="https://stackoverflow.com/users/31674683/maheshzrawal333"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="StackOverflow" width="40" /></a>
       <br/><br/>
       <!-- Location Badge -->
       <a href="https://github.com/maheshzrawal333">
