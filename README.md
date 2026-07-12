@@ -50,7 +50,7 @@
         <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
       </a>
       &nbsp;
-      <a href="https://stackoverflow.com/users/31674683/maheshzrawal333">
+      <a href="https://discordapp.com/users/1042392761627840594">
         <img src="https://skillicons.dev/icons?i=stackoverflow" alt="StackOverflow" />
       </a>
       <br/><br/>
