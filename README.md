@@ -21,7 +21,7 @@
 <table width="100%">
   <tr>
     <td width="65%" valign="top">
-      <p><strong><font size="9">👋 Summary</font></strong></p>
+      <p><strong><font size="5">👋 Summary</font></strong></p>
       <p>I am a Software Engineer specializing in building robust backend systems and high-performance native Android applications. With a strong foundation in <strong>Computer Science & Engineering</strong>, my expertise lies in bridging the gap between scalable infrastructure and seamless user experiences.</p>
       <ul>
         <li>🎓 <strong>Education:</strong> B.Tech in CSE (April 2026) — CGPA: 8.48/10</li>
@@ -149,22 +149,6 @@
     </td>
   </tr>
 </table>
-
-<br/>
-
-<!-- 
-  =======================================================================
-  GITHUB ANALYTICS & STATS (Centered Layout)
-  =======================================================================
--->
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheshzrawal333&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=2E86FF&icon_color=6DB33F" alt="Mahesh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshzrawal333&layout=compact&theme=tokyonight&hide_border=true&title_color=2E86FF" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshzrawal333&theme=tokyonight&hide_border=true&ring=2E86FF&fire=2E86FF" alt="GitHub Streak" />
-</div>
 
 <br/>
 
