@@ -4,10 +4,10 @@
   =======================================================================
 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86FF,100:6DB33F&height=250&section=header&text=Mahesh%20Rawal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Android%20%7C%20Backend%20%7C%20AI&descAlignY=55&descSize=20" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86FF,100:6DB33F&height=250&section=header&text=Mahesh%20Rawal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Web%20%7C%20Native%20Android&descAlignY=55&descSize=20" alt="Header Banner" width="100%" />
 
   <a href="https://github.com/maheshzrawal333">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=2E86FF&center=true&vCenter=true&width=800&lines=Architecting+scalable+systems+with+Java+%26+Spring+Boot;Building+high-performance+Android+apps+with+Compose;Designing+production-ready+RAG+pipelines+%26+LLMs;Focusing+on+Clean+Architecture,+MVVM,+%26+System+Design" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2E86FF&center=true&vCenter=true&width=800&lines=Software+Engineer;Full+Stack+Web+Developer;Native+Android+Developer;Building+Scalable+Systems" alt="Typing SVG" />
   </a>
 </div>
 
@@ -22,10 +22,10 @@
   <tr>
     <td width="65%" valign="top">
       <p><strong><font size="5">👋 Summary</font></strong></p>
-      <p>I am a Software Engineer specializing in building robust backend systems and high-performance native Android applications. With a strong foundation in <strong>Computer Science & Engineering</strong>, my expertise lies in bridging the gap between scalable infrastructure and seamless user experiences.</p>
+      <p>I am a Software Engineer specializing in <strong>Full Stack Web Development</strong> and building high-performance <strong>Native Android applications</strong>. With a strong foundation in Computer Science & Engineering, my expertise lies in bridging the gap between scalable infrastructure and seamless user experiences.</p>
       <ul>
         <li>🎓 <strong>Education:</strong> B.Tech in CSE (April 2026) — CGPA: 8.48/10</li>
-        <li>💼 <strong>Current Focus:</strong> Open to Software Engineering roles (Android / Backend / AI Integration).</li>
+        <li>💼 <strong>Current Focus:</strong> Open to Software Engineering roles (Full Stack Web / Native Android).</li>
         <li>📍 <strong>Location:</strong> Lalitpur, Nepal</li>
       </ul>
     </td>
@@ -54,7 +54,7 @@
 
 <!-- 
   =======================================================================
-  TECH STACK (4 Equal Square Boxes inside a Centered Large Grid)
+  TECH STACK (Grid Layout)
   =======================================================================
 -->
 <h2 align="center">⚙️ Technical Arsenal</h2>
@@ -79,6 +79,23 @@
         <br/><br/>
       </td>
       <td width="50%" align="center" valign="top">
+        <p><strong><font size="4">🌐 Web Frontend</font></strong></p>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" alt="Frontend Icons" />
+        </a>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+        <br/><br/>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" valign="top">
         <p><strong><font size="4">⚙️ Backend & APIs</font></strong></p>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=java,spring,hibernate" alt="Backend Icons" />
@@ -88,8 +105,6 @@
         <img src="https://img.shields.io/badge/RESTful%20APIs-005571?style=for-the-badge" alt="RESTful APIs" />
         <br/><br/>
       </td>
-    </tr>
-    <tr>
       <td width="50%" align="center" valign="top">
         <p><strong><font size="4">🗄️ Data & 🤖 AI</font></strong></p>
         <a href="https://skillicons.dev">
@@ -103,10 +118,12 @@
         <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
         <br/><br/>
       </td>
-      <td width="50%" align="center" valign="top">
+    </tr>
+    <tr>
+      <td colspan="2" align="center" valign="top">
         <p><strong><font size="4">🛠️ Tools & Platforms</font></strong></p>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,github,idea,firebase,postman,gradle,maven&perline=4" alt="Tools Icons" />
+          <img src="https://skillicons.dev/icons?i=git,github,idea,firebase,postman,gradle,maven&perline=7" alt="Tools Icons" />
         </a>
         <br/><br/>
       </td>
@@ -126,19 +143,21 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><strong><font size="4">🔍 <a href="https://github.com/maheshzrawal333/ForensiX">ForensiX</a></font></strong></p>
-      <p align="center"><em>AI-Powered Digital Evidence Search Engine</em></p>
+      <p align="center"><strong><font size="4">🌐 <a href="https://lostandfoundnepal.pages.dev/">Lost and Found Nepal</a></font></strong></p>
+      <p align="center"><em>Full-Stack Platform to Report & Recover Items</em></p>
+      <p align="center"><a href="https://github.com/maheshzrawal333/LostAndFoundWeb">Frontend Repo</a> | <a href="https://github.com/maheshzrawal333/LostAndFoundBackend">Backend Repo</a></p>
       <hr/>
       <ul>
-        <li><strong>Architecture:</strong> Engineered a full-stack RAG pipeline with asynchronous ingestion processing PDF, DOCX, CSV, and TXT files.</li>
-        <li><strong>AI Integration:</strong> Implemented local LLM integration (<b>Llama 3.2</b> via Ollama/Spring AI) with strict JSON structuring to eliminate hallucinations.</li>
-        <li><strong>Database:</strong> Built custom PL/pgSQL hybrid-search functions combining GIN indexing and <b>pgvector</b>.</li>
+        <li><strong>Frontend:</strong> Developed a responsive interface using <b>React</b> and <b>TypeScript</b> for modern, dynamic user navigation.</li>
+        <li><strong>Backend & API:</strong> Built with <b>Java</b> and <b>Spring Boot</b>, implementing RESTful APIs, Hibernate ORM, and unit testing via Mockito.</li>
+        <li><strong>Cloud Integration:</strong> Managed distributed data with <b>CockroachDB</b>, scalable images via <b>Cloudinary</b>, and configured <b>Brevo</b> for automated transactional email alerts.</li>
       </ul>
-      <p align="center"><code>Spring Boot</code> <code>PostgreSQL</code> <code>Spring AI</code> <code>pgvector</code></p>
+      <p align="center"><code>React</code> <code>Spring Boot</code> <code>TypeScript</code> <code>CockroachDB</code></p>
     </td>
     <td width="50%" valign="top">
       <p align="center"><strong><font size="4">💳 <a href="https://github.com/maheshzrawal333/NepSmartPay">NepSmartPay</a></font></strong></p>
       <p align="center"><em>Secure Smart QR & Network Provisioning</em></p>
+      <br/> <!-- Spacing to align with the links in the left column -->
       <hr/>
       <ul>
         <li><strong>Design Patterns:</strong> Utilized the <b>Chain-of-Responsibility</b> pattern for multi-format QR parsing and a <b>Strategy-based</b> router for wallet detection.</li>
