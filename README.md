@@ -143,7 +143,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><strong><font size="4">🌐 <a href="https://lostandfoundnepal.pages.dev/">Lost and Found Nepal</a></font></strong></p>
+      <p align="center"><strong><font size="4">🌐 <a href="https://lostandfoundnepal.com">Lost and Found Nepal</a></font></strong></p>
       <p align="center"><em>Full-Stack Platform to Report & Recover Items</em></p>
       <p align="center"><a href="https://github.com/maheshzrawal333/LostAndFoundWeb">Frontend Repo</a> | <a href="https://github.com/maheshzrawal333/LostAndFoundBackend">Backend Repo</a></p>
       <hr/>
