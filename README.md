@@ -9,6 +9,10 @@
   <a href="https://github.com/maheshzrawal333">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2E86FF&center=true&vCenter=true&width=800&lines=Software+Engineer;Full+Stack+Web+Developer;Native+Android+Developer;Building+Scalable+Systems" alt="Typing SVG" />
   </a>
+
+  <div>
+    <strong><font size="6">🌍 <a href="https://maheshzrawal333.com">maheshzrawal333.com</a> &nbsp;&nbsp;|&nbsp;&nbsp; 🇳🇵 <a href="https://maheshrawal.com.np">maheshrawal.com.np</a></font></strong>
+  </div>
 </div>
 
 <br/>
@@ -24,6 +28,7 @@
       <p><strong><font size="5">👋 Summary</font></strong></p>
       <p>I am a Software Engineer specializing in <strong>Full Stack Web Development</strong> and building high-performance <strong>Native Android applications</strong>. With a strong foundation in Computer Science & Engineering, my expertise lies in bridging the gap between scalable infrastructure and seamless user experiences.</p>
       <ul>
+        <li>🌐 <strong>Portfolio:</strong> <a href="https://maheshzrawal333.com">maheshzrawal333.com</a> | <a href="https://maheshrawal.com.np">maheshrawal.com.np</a></li>
         <li>🎓 <strong>Education:</strong> B.Tech in CSE (April 2026) — CGPA: 8.48/10</li>
         <li>💼 <strong>Current Focus:</strong> Open to Software Engineering roles (Full Stack Web / Native Android).</li>
         <li>📍 <strong>Location:</strong> Lalitpur, Nepal</li>
